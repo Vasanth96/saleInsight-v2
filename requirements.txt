@@ -1,4 +1,3 @@
 streamlit==1.29.0
 plotly-express == 0.4.1
 pandas == 2.1.4
-openpyxl == 23.3.2
